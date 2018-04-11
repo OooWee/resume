@@ -111,16 +111,21 @@ header .content img{
 }
 .web-works-container{
     text-align: center;
-    width: 40%;
+    width: 70%;
     margin: 0 auto;
 }
 .pc{
-    width: 50%;
+    width: 33%;
     float: left;
     text-align: center;
 }
 .mobile{
-    width: 50%;
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+.flash{
+    width: 33%;
     float: left;
     text-align: center;
 }
