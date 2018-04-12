@@ -114,18 +114,8 @@ header .content img{
     width: 70%;
     margin: 0 auto;
 }
-.pc{
-    width: 33%;
-    float: left;
-    text-align: center;
-}
-.mobile{
-    width: 33%;
-    float: left;
-    text-align: center;
-}
-.flash{
-    width: 33%;
+.work{
+    width: 20%;
     float: left;
     text-align: center;
 }
