@@ -111,13 +111,14 @@ header .content img{
 }
 .web-works-container{
     text-align: center;
-    width: 70%;
+    width: 60%;
     margin: 0 auto;
 }
 .work{
     width: 20%;
     float: left;
     text-align: center;
+    font-size: 10px;
 }
 @media (min-width: 992px) {
    .col-md-6 {
